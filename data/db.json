@@ -1,0 +1,32 @@
+{
+  "company": [
+    {
+      "id": "abc",
+      "razaoSocial": "",
+      "cnpj": "",
+      "nomeFantasia": "",
+      "email": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "complemento": "",
+      "latitude": "-30.094599",
+      "longitude": "-51.243801"
+    }
+  ],
+  "product": [
+    {
+      "urlDaImagem": "",
+      "nome": "",
+      "fornecedor": "",
+      "descricao": "...",
+      "custoUnitario": "R$00,00",
+      "grupo": "Interno",
+      "imagem": "",
+      "id": "abc"
+    }
+  ]
+}
